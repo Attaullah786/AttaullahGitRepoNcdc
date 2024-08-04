@@ -1,2 +1,2 @@
-This is main file
-Main feature 1
+Change in main branch
+Main branch syntax
